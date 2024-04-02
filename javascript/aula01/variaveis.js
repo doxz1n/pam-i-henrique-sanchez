@@ -6,3 +6,4 @@ console.log(variavel_3);
 console.log("Olá Mundo");
 console.log("Mensagem", variavel_3);
 console.log("Mensagem" + variavel_3);
+console.log(`Mensagem: ${variavel_3}`);
