@@ -18,7 +18,7 @@ else{
     console.log (`O número ${n3} é impar`)
 }
 
-n4 = '3';
+n4 = '3'; // Número é declarado como string
 if(typeof n4 != Number){
     console.log(`${n4} não é um número`);
 }
